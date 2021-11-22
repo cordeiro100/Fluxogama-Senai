@@ -12,4 +12,6 @@ Situação permissão de cadastro
 
 4 Condiçao para permissao 
 
-5 Caso a condição for verdadeira ou falsa tomam caminhos diferentes
+5 Caso a condição for verdadeira ou falsa, tomam caminhos diferentes
+
+6 Finaliza com simbologia de fim
